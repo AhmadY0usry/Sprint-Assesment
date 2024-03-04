@@ -12,12 +12,12 @@
   * The project involves developing and executing automated test scripts to validate the some functionality of the web GUI of an e-commerce website.
 
 ## 🔬 Used Test Cases in this project :
-    * HomePage Class
-    * SearchPage Class
-    * CartPage Class
-    * TestBase Class as parent class
-    * TestSearch Class exntends TestBase Class
-    * TestCart Class extends TestBase Class
+  * HomePage Class
+  * SearchPage Class
+  * CartPage Class
+  * TestBase Class as parent class
+  * TestSearch Class exntends TestBase Class
+  * TestCart Class extends TestBase Class
   
 ## 🔬 Used Test Cases in this project :
 
