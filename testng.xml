@@ -1,0 +1,9 @@
+<suite name="Suite">
+    <parameter name="browser" value="edge"/>
+    <test name="Test">
+        <classes>
+            <class name="TestSearch"/>
+            <class name="TestCart"/>
+        </classes>
+    </test>
+</suite>
